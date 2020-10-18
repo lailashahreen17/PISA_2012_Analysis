@@ -39,4 +39,5 @@ Indonesia, Peu, Qatar, Brazil and Argentina reamins in the worst five list.
 Male and female students do not show that much variance in terms of scoring.
 
 * Does socio-economic status matter?
-The heat map below somehow can reflect the scenario of socio_economic_cultural status of different countries. Even though the high scorers in reading are withing small fraction of total students, but they are from socio_economic status irrespective of country. 
+
+The heat map somehow can reflect the scenario of socio_economic_cultural status of different countries. Even though the high scorers in reading are withing small fraction of total students, but they are from better socio_economic status irrespective of country. 
