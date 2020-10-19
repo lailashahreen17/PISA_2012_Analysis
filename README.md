@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The PISA 2012 dataset is consisted of scores in math,reading and science and many other attributes of 485490 students. Total columns are 636. In order to explore our area of interest, the dataset is minimized to 124974 data points after preliminary wrangling and excluding missing values. The attributes are scores in three subjects along with  Country, Gender, Formative Assesment, Teacher Support, Teacher Student Relations,Socio_economic_cultural Status,Learning Time and Outside School Study Time.
+The PISA 2012 dataset is consisted of scores in math,reading and science and many other attributes of 485490 students. Total columns are 636. In order to explore our area of interest, the dataset is minimized to 124974 data points after preliminary wrangling and excluding missing values. The attributes are scores in three subjects along with  Country, Gender, Formative Assesment, Teacher Support, Teacher Student Relations,Socio_economic_cultural Status,Learning Time and Outside School Study Time.Dataset is availabale[here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1554482573645000)
 
 
 ## Summary of Findings
@@ -39,5 +39,4 @@ Indonesia, Peu, Qatar, Brazil and Argentina reamins in the worst five list.
 Male and female students do not show that much variance in terms of scoring.
 
 * Does socio-economic status matter?
-
-The heat map somehow can reflect the scenario of socio_economic_cultural status of different countries. Even though the high scorers in reading are withing small fraction of total students, but they are from better socio_economic status irrespective of country. 
+The heat map below somehow can reflect the scenario of socio_economic_cultural status of different countries. Even though the high scorers in reading are withing small fraction of total students, but they are from better socio_economic status irrespective of country. 
